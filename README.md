@@ -1,4 +1,5 @@
-<img width="360" height="360" alt="cropped_circle_image" src="https://github.com/user-attachments/assets/037f412b-db5a-4176-8c5b-f33fbc64a0ab" />
+<img width="500" height="500" alt="Next2Us (1)" src="https://github.com/user-attachments/assets/c14d8830-b8c5-41b1-b4d0-4637c10609d3" />
+
 
 # Run and deploy your AI Studio app
 
